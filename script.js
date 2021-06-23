@@ -36,5 +36,3 @@ generatePassword();
 //   prompt("Your password must be between 8 and 128 characters")
 // }
 
-
-
