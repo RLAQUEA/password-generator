@@ -91,7 +91,7 @@ var stagedPass = randomShuffle(possibleChar);
 newRandPass.push(stagedPass)
 }
 console.log(newRandPass);
-return newRandPass.join("")
+return newRandPass.join("");
 }
 
 // Assignment Code
