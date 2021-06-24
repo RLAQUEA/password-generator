@@ -15,4 +15,3 @@ Then, once the proper number of characters is entered, the user will be asked to
 
 Once they confirm these checkpoints, the program will generate a password with the established possible characters.  
 
-
