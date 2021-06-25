@@ -15,3 +15,10 @@ Then, once the proper number of characters is entered, the user will be asked to
 
 Once they confirm these checkpoints, the program will generate a password with the established possible characters.  
 
+<img width="886" alt="Password Generator" src="https://user-images.githubusercontent.com/30808137/123354183-1bb6a300-d531-11eb-8124-b4813d6beec6.png">
+
+
+<img width="1173" alt="Characters" src="https://user-images.githubusercontent.com/30808137/123354379-8071fd80-d531-11eb-94ca-b8c8b7da2cb3.png">
+
+
+<img width="1026" alt="Generated-password" src="https://user-images.githubusercontent.com/30808137/123354399-8cf65600-d531-11eb-9436-ba19e16afaf5.png">
